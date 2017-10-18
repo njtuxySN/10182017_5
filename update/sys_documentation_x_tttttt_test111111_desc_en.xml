@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="desc" label="Desc" language="en" table="x_tttttt_test111111">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>desc</element>
+            <help/>
+            <hint/>
+            <label>Desc</label>
+            <language>en</language>
+            <name>x_tttttt_test111111</name>
+            <plural>Descs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-18 18:10:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9383b183583103002c829ef56a440c10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Desc</sys_name>
+            <sys_package display_value="tttttt" source="x_tttttt">9ae2f903583103002c829ef56a440c37</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="tttttt">9ae2f903583103002c829ef56a440c37</sys_scope>
+            <sys_update_name>sys_documentation_x_tttttt_test111111_desc_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-18 18:10:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

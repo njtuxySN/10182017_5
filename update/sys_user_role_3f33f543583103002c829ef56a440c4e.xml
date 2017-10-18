@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-10-18 18:09:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3f33f543583103002c829ef56a440c4e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_tttttt_test111111_user</sys_name>
